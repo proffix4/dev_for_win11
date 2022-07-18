@@ -1,0 +1,2 @@
+https://github.com/icsharpcode/SharpDevelop/releases
+https://www.microsoft.com/ru-RU/download/details.aspx?id=26368

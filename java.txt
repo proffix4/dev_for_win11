@@ -1,0 +1,12 @@
+OpenJDK: https://jdk.java.net/18/ , https://jdk.java.net/archive/
+Jarfix: https://johann.loefflmann.net/en/software/jarfix/index.html
+
+Apache NetBeans: https://netbeans.apache.org/
+Русификация и орфография NetBeans: https://github.com/tsnsoft/rus_loc_for_netbeans
+
+Cygwin (C/C++): https://cygwin.com/
+
+JavaFX: https://gluonhq.com/products/javafx/
+Scene Builder: https://gluonhq.com/products/scene-builder/
+
+Apache Tomcat (servlet, JSP): https://tomcat.apache.org/download-90.cgi

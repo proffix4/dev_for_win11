@@ -1,0 +1,4 @@
+Используйте сложный пароль для root, иначе не будет работать. Например такой:
+PassW0rd++
+
+https://dev.mysql.com/downloads/windows/installer/8.0.html

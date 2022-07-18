@@ -1,0 +1,1 @@
+"C:\Program Files\NetBeans-14\netbeans\bin\netbeans64.exe" --fontsize 16
