@@ -2,7 +2,7 @@ OpenJDK: https://jdk.java.net/18/ , https://jdk.java.net/archive/
 Jarfix: https://johann.loefflmann.net/en/software/jarfix/index.html
 
 Apache NetBeans: https://netbeans.apache.org/
-Русификация и орфография NetBeans: https://github.com/tsnsoft/rus_loc_for_netbeans
+Р СѓСЃРёС„РёРєР°С†РёСЏ Рё РѕСЂС„РѕРіСЂР°С„РёСЏ NetBeans: https://github.com/tsnsoft/rus_loc_for_netbeans
 
 Cygwin (C/C++): https://cygwin.com/
 
