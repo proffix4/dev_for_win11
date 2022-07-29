@@ -1,2 +1,3 @@
 @echo off
-bash -c "java -jar %1"
+rem bash -c "java -jar %1"
+wsl java -jar %1
