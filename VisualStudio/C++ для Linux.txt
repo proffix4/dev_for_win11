@@ -1,17 +1,17 @@
-C++ для Linux в Visual Studio 2022:
+C++ РґР»СЏ Linux РІ Visual Studio 2022:
 
-1) Прокачка WSL:
+1) РџСЂРѕРєР°С‡РєР° WSL:
 wsl sudo apt-get install openssh-server g++ gdb make ninja-build rsync zip
 wsl sudo ssh-keygen -A
 wsl sudo service ssh --full-restart
 
-2) В Linux в файле etc\ssh\sshd_config нужно установить параметр: PasswordAuthentication yes
+2) Р’ Linux РІ С„Р°Р№Р»Рµ etc\ssh\sshd_config РЅСѓР¶РЅРѕ СѓСЃС‚Р°РЅРѕРІРёС‚СЊ РїР°СЂР°РјРµС‚СЂ: PasswordAuthentication yes
 
-3) Запуск рабочей нагрузки Linux:
+3) Р—Р°РїСѓСЃРє СЂР°Р±РѕС‡РµР№ РЅР°РіСЂСѓР·РєРё Linux:
 wsl sudo service ssh start
 
-4) Настройка подключения к Linux:
-127.0.0.1 (username=ваш_логин_в_linux_wsl, port=22, authentication=Password, ваш_пароль_в_linux_wsl)
+4) РќР°СЃС‚СЂРѕР№РєР° РїРѕРґРєР»СЋС‡РµРЅРёСЏ Рє Linux:
+127.0.0.1 (username=РІР°С€_Р»РѕРіРёРЅ_РІ_linux_wsl, port=22, authentication=Password, РІР°С€_РїР°СЂРѕР»СЊ_РІ_linux_wsl)
 
-5) Запуск программы Linux из среды Windows:
+5) Р—Р°РїСѓСЃРє РїСЂРѕРіСЂР°РјРјС‹ Linux РёР· СЃСЂРµРґС‹ Windows:
 wsl "./ConsoleApplication1.out"
